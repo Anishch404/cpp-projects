@@ -3,12 +3,6 @@ using namespace std;
 
 int main(){
 
-    // float Celsius;
-    // cout << "Put the temperature in Celsius here: " << endl;
-    // cin >> Celsius;
-    // float fahrenheit;
-    // fahrenheit = Celsius*9.0 /5.0 + 32.0;
-    // cout << "This is the temperature in fahrenheit: " << fahrenheit << endl; 
 
 
     cout << "******WELCOME TO TEMP CALCULATOR****** \n";
@@ -43,4 +37,5 @@ int main(){
     cout << "******THANKYOU FOR USING THIS TEMPERATURE CALCULATOR******" << endl;
 
     return 0;
+
 }
