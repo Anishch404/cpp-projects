@@ -9,8 +9,8 @@ into one all-in-one fitness assistant.
 
 ## Features
 
--   Functional **BMR Calculator** (currently working and tested).\
--   User-friendly CLI input/output.\
+-   Functional **BMR Calculator** (currently working and tested).
+-   User-friendly CLI input/output.
 -   Future updates: personalized workout planner + diet generator.
 
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ into one all-in-one fitness assistant.
 ## Why Gymify?
 
 The idea is to create a **personal trainer experience** in one place
----\
+
 not just calculating calories, but also guiding workouts and nutrition.
 
 ------------------------------------------------------------------------
