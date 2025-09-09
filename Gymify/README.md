@@ -1,100 +1,80 @@
-# 🏋️‍♂️ Workout & Diet Planner
+# Gymify
 
-A simple yet powerful project designed to help users with their
-**fitness journey**.\
-This app includes: - ✅ A **BMR Calculator** to estimate your daily
-calorie needs.\
-- ✅ Plans for **workouts** tailored to different goals.\
-- ✅ **Diet plans** aligned with user requirements (coming soon).
-
-The goal of this project is to build an **all-in-one fitness assistant**
-🚀.
+**Gymify** is a simple and powerful fitness project designed to help
+users on their journey.\
+It combines a **BMR Calculator**, workout plans, and diet suggestions
+into one all-in-one fitness assistant.
 
 ------------------------------------------------------------------------
 
-## 📌 Features (as of now)
+## Features
 
--   **Functional BMR Calculator** (works and tested).\
--   User-friendly CLI-based input/output.\
--   Future updates: full workout planner + diet generator.
-
-------------------------------------------------------------------------
-
-## 💡 Why I Built This
-
-I wanted to create a **personalized fitness tool** that doesn't just
-stop at calorie calculation,\
-but actually gives you **workout splits** and **diet suggestions** in
-one place.
-
-Think of it as your mini personal trainer 💪.
+-   Functional **BMR Calculator** (currently working and tested).\
+-   User-friendly CLI input/output.\
+-   Future updates: personalized workout planner + diet generator.
 
 ------------------------------------------------------------------------
 
-## ⚙️ Tech Stack
+## Why Gymify?
 
--   **Language**: C++ (primary)\
--   **Future scope**: Expanding with more logic, possibly a GUI in the
-    future.
+The idea is to create a **personal trainer experience** in one place
+---\
+not just calculating calories, but also guiding workouts and nutrition.
 
 ------------------------------------------------------------------------
 
-## 🚀 How to Run (Windows)
+## Tech Stack
+
+-   **Language:** C++\
+-   **Scope:** Expanding with more features, possible GUI in the future.
+
+------------------------------------------------------------------------
+
+## How to Run (Windows)
 
 1.  Clone the repo:
 
     ``` bash
-    git clone https://github.com/your-username/workout-diet-planner.git
+    git clone https://github.com/your-username/gymify.git
     ```
 
 2.  Navigate into the project folder:
 
     ``` bash
-    cd workout-diet-planner
+    cd gymify
     ```
 
 3.  Compile the code:
 
     ``` bash
-    g++ main.cpp -o planner.exe
+    g++ main.cpp -o gymify.exe
     ```
 
 4.  Run it:
 
     ``` bash
-    planner.exe
+    gymify.exe
     ```
 
 ------------------------------------------------------------------------
 
-## 🔮 Future Plans
+## Roadmap
 
 -   Add **custom workout routines** (strength, cardio, hypertrophy,
     etc.)\
 -   Add **diet recommendations** (cutting, bulking, maintenance).\
--   Build a more interactive UI.
+-   Develop a more interactive UI.
 
 ------------------------------------------------------------------------
 
-## ✨ Name Ideas (other than Workout & Diet Planner)
+## Contributing
 
--   **FitTrack**\
--   **MacroMate**\
--   **Gymify**\
--   **NutriFlex**\
--   **Sweat & Fuel**\
--   **BMR to Beast** (funny one 😂)
-
-------------------------------------------------------------------------
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue
+Pull requests are welcome. For significant changes, please open an issue
 first\
-to discuss what you'd like to change.
+to discuss your ideas.
 
 ------------------------------------------------------------------------
 
-## 📜 License
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
