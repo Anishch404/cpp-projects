@@ -3,17 +3,6 @@ using namespace std;
 
 int main(){
 
-    /*BMR
-    F OR M ****later on******
-    GOALS
-    CALORIES
-    DIET: protein,carbs n type shi
-    IF ELSE SE SPLIT 
-    3 SPLITS
-    6 DAYS(PPL)
-    5 DAYS(PPLUL)
-    4 DAYS(ULUL)
-    */
 
    char yes;
    cout << "Do you want a Diet plan according to your goals if yes(y) or no(n)?" << endl;
@@ -79,4 +68,5 @@ int main(){
 
 
     return 0;
+
 }
