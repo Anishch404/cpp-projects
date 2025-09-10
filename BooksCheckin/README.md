@@ -1,7 +1,7 @@
-# HeapShelf 📚
+# BooksCheckin 📚
 
 A tiny C++ project where I practiced **dynamic memory allocation** and
-**pointers** by simulating a mini book issue system.\
+**pointers** by simulating a mini book check-in system.\
 The program asks how many books are issued, stores their names in
 dynamically allocated memory (`new[]`), and then displays them.
 
